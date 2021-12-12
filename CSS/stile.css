@@ -1,0 +1,29 @@
+
+.carousel-caption {
+    background-color: white;
+    opacity: 50%;
+    border-radius: 30%;
+}
+h5 {
+    color: black;
+}
+p {
+    color: black;
+}
+.carousel-item img {
+    height: 700px;
+    object-fit: cover;
+}
+.carousel-control-next-icon {
+    background-image: none;
+}
+.a {
+    transform: rotate(270deg);
+    color: chartreuse;
+    font-size: 200%;
+}
+.b {
+    transform: rotate(90deg);
+    color: chartreuse;
+    font-size: 200%;
+}
